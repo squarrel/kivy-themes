@@ -1,4 +1,4 @@
-kivy-contest-2014
+kivy-themes
 =================
 
-Kivy contest 2014
+Here are some Kivy themes I made, drawing from the original Kivy theme. 
